@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Psst over here
+  - There's a weapon here somewhere. I'll tell you where it is if you answer my questions,
+    of course.
+  - In Java, the ______ keyword is used to create a new instance of a class.
+  responses:
+  - responseText: instance
+    dialogueObject: {fileID: 11400000, guid: ab8b5b181b184c84d989385dc1c41bb9, type: 2}
+  - responseText: new
+    dialogueObject: {fileID: 11400000, guid: f748b29365710c846bff98b4cd7289ee, type: 2}

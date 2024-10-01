@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Wow, you made it this far. Here's the next question for you.
+  - 'What does the acronym "URL" stand for?
+
+'
+  - 'Is it "Uniform Resource Locator" or "Universal Resource Locator"?
+
+'
+  responses:
+  - responseText: Universal
+    dialogueObject: {fileID: 11400000, guid: d6d285e0bf4d44c489a5e0bad329f4c5, type: 2}
+  - responseText: Uniform
+    dialogueObject: {fileID: 11400000, guid: a59dfc12ccb5dac4f8826d3ce7d514e0, type: 2}

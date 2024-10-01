@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a08a90c045b5a1649a1cd47e68a72f41
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene 1.unity
+    guid: 41418e5fd9beb544d883bdad714d65b5
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Dock.unity
+    guid: a3a6a240e42e5c3449ea0f94973a119a
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Town.unity
+    guid: 8fd5f13d7c091664a98f66f72f1283d8
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Town 2.unity
+    guid: bd698593515e32d4099c73a08a1d5bed
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Overworld_1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Overworld_2.unity
+    guid: d5b5caad94d79674890a0e12fdccde6b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Overworld_3.unity
+    guid: bf13f5cb1426f5343bdc59dc00980d3b
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Overworld_4.unity
+    guid: 22636173861a9124ca71cd91f2031a22
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Overworld_5.unity
+    guid: 83e113f87a0f330488f2b6de62fa028e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene 2.unity
+    guid: 7db97d4f2d2d7fd4cbae55703988b853
+  - enabled: 1
+    path: Assets/Scenes/Overworld/Overworld_6.unity
+    guid: b8bdea16ced97c1488ef69b5269aa336
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_1.unity
+    guid: f4f44cd96d03d7742a6be646497b769e
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_2.unity
+    guid: 3126335867cb87e4c8967582e3ebdc3a
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_3.unity
+    guid: b5c3b15ed725fa24186e7bf152b8f78b
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_4.unity
+    guid: f40a7474cff022c418decb110db788f4
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Hidden_Area 2.unity
+    guid: 36e04936a82298f45a5df4550c71f46b
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_5.unity
+    guid: 82eef8e36501c2541a4297d9fd5baba1
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_6.unity
+    guid: f6611d12677f6c14284f5664900df81e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene 3.unity
+    guid: e710d9a6cc30bde449b1a2da5bc0e66f
+  - enabled: 1
+    path: Assets/Scenes/Cellar/Cellar_7.unity
+    guid: ff8556f09d93b5a4bb03e61aaaaa877d
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_1.unity
+    guid: 88d4e8fc5693b8d46a9d53d7a8eadd1f
+  - enabled: 1
+    path: Assets/Scenes/Castle/CastleT_1.unity
+    guid: 7e9d1d68bea06594aa2233c01767b1e7
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_2.unity
+    guid: 65789adcd8fd1114183ed35071b5e9e2
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_3.unity
+    guid: 1b247f78e6d162248837c7b90a926f75
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_4.unity
+    guid: e1fbc9692f3387546949b4ebe79d8ba9
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_5.unity
+    guid: 03383ee8d2d06014cbf5aee2f52e24cb
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_6.unity
+    guid: d6a4e74fd89726d4694a001f4acdb7ea
+  - enabled: 1
+    path: Assets/Scenes/Castle/Castle_7.unity
+    guid: 71f09a291e552824a94f1d93dcbe8c2e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Cutscene 4.unity
+    guid: cd258804cb610384f8de895cf51a50be
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 30124601577df64468e529076ceb93f4
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 59391b8cebd02784ea11383abd3a5b1c, type: 2}

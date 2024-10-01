@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  dialogue:
+  - You want the torch? Answer me first.
+  - Only the right words will light your way.
+  - What is the purpose of the "if" statement in programming?
+  responses:
+  - responseText: Function
+    dialogueObject: {fileID: 11400000, guid: b3449c79b376aa141b2040f52c4b6c4d, type: 2}
+  - responseText: Decision
+    dialogueObject: {fileID: 11400000, guid: af878a2de25eb264ea4d36aa40bdf5b2, type: 2}

@@ -1,0 +1,1174 @@
+fileFormatVersion: 2
+guid: e281ee8070582e640ba3300ae76f43e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074c927cfb2e5e48bc19d441947504f
+      internalID: -1826940183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4e81e7c1a83348aeed58b95c025c1
+      internalID: 1289204403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d45b7ba83e65e44684ac45791084a67
+      internalID: 574934306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_3
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1055
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd2a05faa2c7b4da5014bc017579c4
+      internalID: -1718759293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1232
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f7771c407de14da14dbe5b5122a20
+      internalID: 389129871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_5
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723195d26466b414b89b4f2bd1e4ce32
+      internalID: 1534949367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_6
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667b4ef317ee674ca7a1f857f99161b
+      internalID: 1402445778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_7
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd002762825fa47ad2441a957801f9
+      internalID: 1928277454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1222
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951c5871c91c4d459acfc3d1e17d317
+      internalID: -566716408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1187
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68567a11dac927d49bdc8d3fb49ec590
+      internalID: -399756947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1187
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a6a4fe2ab85b49982de470bc59c86
+      internalID: 1396766693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1228
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f40023ab590d244ad38dacb58c5a73
+      internalID: 148602861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1227
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86739fdecc22648b4acc5bc01b2d5d
+      internalID: 1026688365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_13
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1187
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab7722cfb1c064c8527d0790a7b67d
+      internalID: -1392647655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_14
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1187
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf23579741c2e142b05c760085828f8
+      internalID: -450597826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_15
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1191
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89124032d682cf5418ee2df87703819d
+      internalID: -563824921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f9d96353cbd54ba0792cf3583506e
+      internalID: -573930930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ca12866c1419478d1945f29ee89dd
+      internalID: 1570323658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3236fee60fff8d8469b94fbc410c0b56
+      internalID: 1543792173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e241d7471fa624947af6b38c410cba0a
+      internalID: 393678520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c114a90bede460d439b3e7acff1e6219
+      internalID: -21879878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf28b7e19593f4b91336e0674bb1e0
+      internalID: -489308930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9053ca96076db6c41bc71358233da84f
+      internalID: -540113662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521cc6788939cfb4daa88a8b0cc0e040
+      internalID: 390929192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3aadccffbe9c46a0cfb2f969f9736
+      internalID: 1411874642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070d106201d6d048b5e0b51df280749
+      internalID: 626350535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d839f52463eb4eafc1ae512f06ca2
+      internalID: -299836012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220267ae12891784eb4294200e53d39b
+      internalID: 1189548301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 585
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc43c53859d4a846be309099e3e70bc
+      internalID: 1450498812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_29
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 683
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204d025453ea9f40beec6b0ed43a8b7
+      internalID: -195159940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_30
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf56632a0f93b4c97d15d152461ec9
+      internalID: -148642061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739d8dab5169644383d0e6428bb5ab0
+      internalID: -1940663146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 419
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5b495806d7f34988a6690477f354c
+      internalID: 1591253818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6172789c61d734d46915db76b49aaac9
+      internalID: -47150163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_34
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 913
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ce6ecc8615a6439605706ced87107
+      internalID: -1406042682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 419
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f904c4975e5145a26920405033c43
+      internalID: -2117430336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_36
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 392
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49442f44c6ad2f4c81e6f080d91cc3b
+      internalID: -61911727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_37
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 419
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765a9de22b910e4b8da3c68a1bd02a9
+      internalID: 913036316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 419
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c283729285f8b84fae85d26e8bdb03f
+      internalID: 1675850213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 163
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc4ab3c901f874f964998fcc8043aa
+      internalID: 1313821793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 163
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47975795cf9efa4bbb5f447343dcf77
+      internalID: -1122706945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_41
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 813
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b83c0b771db44491943debe9e8192
+      internalID: -898310239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 225
+        width: 411
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a5b998c5bd604da16a67c92eec169
+      internalID: 1361817768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 163
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5816d4c899fe42a375c5df80374c8
+      internalID: 790957507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 163
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229cce05d9ddbdb48975671916d47fe4
+      internalID: 1782867558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_45
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 163
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc9538e7be1f247bf2103884b1c782
+      internalID: -722663536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 128862-alphabet-black-png-free-photo_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 163
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2feb502432224685fa370deee6690
+      internalID: 437156881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      128862-alphabet-black-png-free-photo_0: -1826940183
+      128862-alphabet-black-png-free-photo_1: 1289204403
+      128862-alphabet-black-png-free-photo_10: 1396766693
+      128862-alphabet-black-png-free-photo_13: -1392647655
+      128862-alphabet-black-png-free-photo_14: -450597826
+      128862-alphabet-black-png-free-photo_15: -563824921
+      128862-alphabet-black-png-free-photo_16: -573930930
+      128862-alphabet-black-png-free-photo_17: 1570323658
+      128862-alphabet-black-png-free-photo_18: 1543792173
+      128862-alphabet-black-png-free-photo_19: 393678520
+      128862-alphabet-black-png-free-photo_2: 574934306
+      128862-alphabet-black-png-free-photo_20: -21879878
+      128862-alphabet-black-png-free-photo_21: -489308930
+      128862-alphabet-black-png-free-photo_22: -540113662
+      128862-alphabet-black-png-free-photo_23: 390929192
+      128862-alphabet-black-png-free-photo_24: 1411874642
+      128862-alphabet-black-png-free-photo_25: 626350535
+      128862-alphabet-black-png-free-photo_26: -299836012
+      128862-alphabet-black-png-free-photo_27: 1189548301
+      128862-alphabet-black-png-free-photo_29: -195159940
+      128862-alphabet-black-png-free-photo_3: -1718759293
+      128862-alphabet-black-png-free-photo_30: -148642061
+      128862-alphabet-black-png-free-photo_31: -1940663146
+      128862-alphabet-black-png-free-photo_32: 1591253818
+      128862-alphabet-black-png-free-photo_33: -47150163
+      128862-alphabet-black-png-free-photo_34: -1406042682
+      128862-alphabet-black-png-free-photo_35: -2117430336
+      128862-alphabet-black-png-free-photo_36: -61911727
+      128862-alphabet-black-png-free-photo_37: 913036316
+      128862-alphabet-black-png-free-photo_38: 1675850213
+      128862-alphabet-black-png-free-photo_39: 1313821793
+      128862-alphabet-black-png-free-photo_40: -1122706945
+      128862-alphabet-black-png-free-photo_41: -898310239
+      128862-alphabet-black-png-free-photo_43: 790957507
+      128862-alphabet-black-png-free-photo_44: 1782867558
+      128862-alphabet-black-png-free-photo_45: -722663536
+      128862-alphabet-black-png-free-photo_46: 437156881
+      128862-alphabet-black-png-free-photo_5: 1534949367
+      128862-alphabet-black-png-free-photo_6: 1402445778
+      128862-alphabet-black-png-free-photo_7: 1928277454
+      128862-alphabet-black-png-free-photo_9: -399756947
+      a: -566716408
+      d: 148602861
+      e: 1026688365
+      f: 389129871
+      s: 1450498812
+      w: 1361817768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

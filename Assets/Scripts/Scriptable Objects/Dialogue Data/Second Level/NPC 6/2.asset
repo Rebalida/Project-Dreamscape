@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Remember, no free pass this time.
+  - In C#, the ______ statement is used to exit a loop prematurely.
+  responses:
+  - responseText: break
+    dialogueObject: {fileID: 11400000, guid: 6291ecad7de101c4aa07ab345ace1cb7, type: 2}
+  - responseText: exit
+    dialogueObject: {fileID: 11400000, guid: e696914ea5687ed47b3441e9e482e325, type: 2}

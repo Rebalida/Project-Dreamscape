@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Type of attack involving trickery for sensitive information
+  responses:
+  - responseText: Spoofing
+    dialogueObject: {fileID: 11400000, guid: a4b912829fe668b4e9723299b6bb908c, type: 2}
+  - responseText: Phishing
+    dialogueObject: {fileID: 11400000, guid: f6a809b2a009e6b44b448d2bad468efc, type: 2}

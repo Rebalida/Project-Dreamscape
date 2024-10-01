@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7c544e67b3a332b49b93d0ad7da2669a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - locketSFX: {fileID: 8300000, guid: 1681215f7c767fe4993cf6680f50038a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

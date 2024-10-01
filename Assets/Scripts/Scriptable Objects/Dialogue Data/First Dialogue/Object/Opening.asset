@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: Opening
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Hey.
+  - 'There you are.
+
+'
+  - Huh? Is someone calling you?
+  - I don't hear anything, though.
+  - Anyway, here are my weapons.
+  - You mentioned that you want to explore, right?
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: 074e79719535f784282249c78b995ff3, type: 2}
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: d58b7e28e126563488cba2fd8c3a8bf0, type: 2}

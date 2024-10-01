@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21a21667334bda34ea95c89ab4e15749, type: 3}
+  m_Name: Guide Object
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Hey.
+  - 'Did you see that boulder? I can open the next area for now, '
+  - but be warned, in the upcoming area, others will approach you with questions
+    that require correct answers
+  - Got it?
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: 6cda84d121ca5c84eb7cb939ece9acd8, type: 2}
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: df8eb971e7d3ff640826ebece77085a7, type: 2}
